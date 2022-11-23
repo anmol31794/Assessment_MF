@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MuthootFinanceTest</string>
+    <string name="enter_email">Enter email</string>
+    <string name="email_colan">Email :</string>
+    <string name="password_colan">Password :</string>
+    <string name="enter_password">Enter password</string>
+    <string name="email_should_be_valid">Please enter a valid email</string>
+    <string name="password_should_be_valid">Please enter a valid password</string>
+    <string name="login">Login</string>
+</resources>
